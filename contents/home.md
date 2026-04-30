@@ -1,6 +1,6 @@
 
 
-[![Hxy-mgy](https://img.shields.io/badge/Hxy-mgy-github-blue?logo=github)](https://github.com/Hxy-mgy)
+[![ENZOwuAAA](https://img.shields.io/badge/ENZOwuAAA-github-blue?logo=github)](https://github.com/ENZOwuAAA)
 
 He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
 
